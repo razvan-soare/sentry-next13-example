@@ -1,6 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Replace
+
+In `sentry.properties` replace the following properties with proper data
+`REPLACE_ORG_HERE`
+`REPLACE_PROJECT_HERE`
+
+Add the `NEXT_PUBLIC_SENTRY_DSN` in env file
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
